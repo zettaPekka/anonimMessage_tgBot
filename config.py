@@ -1,0 +1,2 @@
+BOT_USERNAME = ''
+IMG_URL = ''
